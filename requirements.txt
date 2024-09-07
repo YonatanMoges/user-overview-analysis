@@ -1,3 +1,7 @@
 pandas
-psycopg2
-python-dotenv
+matplotlib
+numpy
+scikit_learn
+seaborn
+plotly
+
